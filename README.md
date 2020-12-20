@@ -14,4 +14,4 @@ Myself Shailendra Omkar
          - Twitter : @OmkarShailendra
 
 - ⚡ Fun fact: ...Blockchain Development is easy
-         - - Twitter : @OmkarShailendra
+         : - Twitter : @OmkarShailendra
