@@ -15,3 +15,8 @@ Myself Shailendra Omkar
 
 - ⚡ Fun fact: ...Blockchain Development is easy
          : - Twitter : @OmkarShailendra
+         
+ : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
