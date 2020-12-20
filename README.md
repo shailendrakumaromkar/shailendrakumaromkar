@@ -12,7 +12,7 @@ Myself Shailendra Omkar
       - LinkedIn : https://www.linkedin.com/in/shailendra-omkar-1a109858/
           :- Gmail : shailendrakumaromkar@gmail.com
           :- Twitter : @OmkarShailendra
-          [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+          [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
 
 - ⚡ Fun fact: ...Blockchain Development is easy        
  
