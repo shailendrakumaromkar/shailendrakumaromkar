@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**shailendrakumaromkar/shailendrakumaromkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myself Shailendra Omkar
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... Building DApp's Project using Ethereum Platform
+- 🌱 I’m currently learning ...Ethereum
+- 👯 I’m looking to collaborate on ...Ethereum DApp, DeFi, NFT, Wallet Development, Smart Contract Security
+- 🤔 I’m looking for help with ...React
+- 💬 Ask me about ...Building complete End to End Working Ethereum DApp
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      * LinkedIn : https://www.linkedin.com/in/shailendra-omkar-1a109858/
+      * Gmail : shailendrakumaromkar@gmail.com
+      * Twitter : @OmkarShailendra
+
+- ⚡ Fun fact: ...Blockchain Development is easy
