@@ -10,7 +10,7 @@ Myself Shailendra Omkar
 - 💬 Ask me about ...Building complete End to End Working Ethereum DApp
 - 📫 How to reach me
     - [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
-    - Gmail : shailendrakumaromkar@gmail.com
+    - :e-mail: : shailendrakumaromkar@gmail.com
     - [Twitter](https://twitter.com/OmkarShailendra)
 
 - ⚡ Fun fact: ...Blockchain Development is easy
