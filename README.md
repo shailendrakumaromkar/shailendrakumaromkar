@@ -20,3 +20,12 @@ Myself Shailendra Omkar
          * Nested bullet
                   * Sub-nested bullet etc
  * Bullet list item 2
+ 
+ 1. one
+   * nested
+
+2. two
+   * nested
+
+3. three
+   * nested
