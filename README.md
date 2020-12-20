@@ -11,6 +11,6 @@ Myself Shailendra Omkar
 - 📫 How to reach me
     - [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
     - :e-mail:  shailendrakumaromkar@gmail.com
-    - [Twitter](https://twitter.com/OmkarShailendra)
+    - :baby_chick: [Twitter](https://twitter.com/OmkarShailendra)
 
 - ⚡ Fun fact: ...Blockchain Development is easy
