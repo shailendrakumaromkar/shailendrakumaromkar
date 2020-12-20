@@ -9,18 +9,8 @@ Myself Shailendra Omkar
 - 🤔 I’m looking for help with ...React, FrontEnd Development
 - 💬 Ask me about ...Building complete End to End Working Ethereum DApp
 - 📫 How to reach me
-      - LinkedIn : https://www.linkedin.com/in/shailendra-omkar-1a109858/
-          :- Gmail : shailendrakumaromkar@gmail.com
-          :- Twitter : @OmkarShailendra
-          [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
+      * [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
+      * Gmail : shailendrakumaromkar@gmail.com
+      * [Twitter](https://twitter.com/OmkarShailendra)
 
-- ⚡ Fun fact: ...Blockchain Development is easy        
- 
- 1. one
-   * nested
-
-2. two
-   * nested
-
-3. three
-   * nested
+- ⚡ Fun fact: ...Blockchain Development is easy
