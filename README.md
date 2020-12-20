@@ -4,7 +4,7 @@ Myself Shailendra Omkar
 
 
 - 🔭 I’m currently working on ... Building DApp's Project using Ethereum Platform
-      -    one
+     - one
       * two
 - 🌱 I’m currently learning ...Ethereum, Solidity, FrontEnd Development
 - 👯 I’m looking to collaborate on ...Ethereum DApp, DeFi, NFT, Wallet Development, Smart Contract Security
