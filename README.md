@@ -1,16 +1,45 @@
-### Hi there 👋
+Hi 👋 I'm Shailendra Omkar
 
-Myself Shailendra Omkar
+Senior QA Engineer | 17+ Years Experience
 
+Specializing in
 
-- 🔭 I’m currently working on ... Building DApp's Project using Ethereum Platform
-- 🌱 I’m currently learning ...Ethereum, Solidity, FrontEnd Development,Python
-- 👯 I’m looking to collaborate on ...Ethereum DApp, DeFi, NFT, Wallet Development, Smart Contract Security
-- 🤔 I’m looking for help with ...React, FrontEnd Development
-- 💬 Ask me about ...Building complete End to End Working Ethereum DApp
-- 📫 How to reach me
-    - [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
-    - :e-mail:  shailendrakumaromkar@gmail.com
-    - :baby_chick: [Twitter](https://twitter.com/OmkarShailendra)
+✔ Test Automation (Playwright)
+✔ API Testing
+✔ Mobile Testing
+✔ Performance Testing (k6)
+✔ Blockchain / Web3 QA
+✔ CI/CD
+✔ TypeScript
 
-- ⚡ Fun fact: ...Blockchain Development is easy
+Currently
+
+• Building Playwright automation frameworks
+• Learning Appium for mobile wallet testing
+• Working on Web3 automation
+
+Tech Stack
+
+Playwright
+TypeScript
+JavaScript
+Docker
+GitHub Actions
+GitLab CI
+Postman
+k6
+Ethereum
+Solana
+
+Featured Projects
+
+• Playwright Automation Framework
+• API Schema Validator
+• Broken Link Checker
+• Web3 Wallet Testing
+
+Let's connect
+
+LinkedIn
+Portfolio
+Email
