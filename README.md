@@ -43,6 +43,6 @@ Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
 [Portfolio](https://portfolio-shailendra-omkar.vercel.app/)
-Email : shailendrakumaromkar@gmail.com
 [Twitter](https://twitter.com/OmkarShailendra)
+Email : shailendrakumaromkar@gmail.com
 Telegram : shailendrakumaromkar
