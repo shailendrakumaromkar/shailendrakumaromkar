@@ -20,16 +20,17 @@ Currently
 
 Tech Stack
 
-Playwright
-TypeScript
-JavaScript
-Docker
-GitHub Actions
-GitLab CI
-Postman
-k6
-Ethereum
-Solana
+• Playwright
+• TypeScript
+• JavaScript
+• Docker
+• GitHub Actions
+• GitLab CI
+• Postman
+• k6
+• Bitcoin
+• Ethereum
+• Solana
 
 Featured Projects
 
@@ -40,6 +41,8 @@ Featured Projects
 
 Let's connect
 
-LinkedIn
-Portfolio
-Email
+[LinkedIn](https://www.linkedin.com/in/shailendra-omkar-1a109858/)
+[Portfolio](https://portfolio-shailendra-omkar.vercel.app/)
+Email : shailendrakumaromkar@gmail.com
+[Twitter](https://twitter.com/OmkarShailendra)
+Telegram : shailendrakumaromkar
